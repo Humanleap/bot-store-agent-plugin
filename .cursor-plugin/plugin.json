@@ -1,6 +1,6 @@
 {
   "name": "bot-store",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find and open Grok Bot templates from bot.store, compare actual marketplace listings and prepare a user-chosen bot's checkout handoff. Use when the user names bot.store, chooses its marketplace or shares a bot.store URL.",
   "author": {
     "name": "Blake Folgado",
@@ -17,5 +17,7 @@
   ],
   "skills": [
     "./skills/bot-store-marketplace"
-  ]
+  ],
+  "displayName": "bot.store",
+  "logo": "./logo.png"
 }
