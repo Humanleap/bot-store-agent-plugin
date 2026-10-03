@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "bot-store",
+  "version": "1.0.0",
+  "description": "Find and open Grok Bot templates from bot.store, compare actual marketplace listings and prepare a user-chosen bot's checkout handoff. Use when the user names bot.store, chooses its marketplace or shares a bot.store URL.",
+  "author": {
+    "name": "Blake Folgado",
+    "email": "blake@humanleap.com",
+    "url": "https://humanleap.com"
+  },
+  "homepage": "https://bot.store",
+  "repository": "https://github.com/Humanleap/bot-store-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "bot-store",
+    "bot-store MCP",
+    "bot-store skills"
+  ]
+}

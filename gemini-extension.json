@@ -1,0 +1,11 @@
+{
+  "name": "bot-store",
+  "version": "1.0.0",
+  "description": "Find and open Grok Bot templates from bot.store, compare actual marketplace listings and prepare a user-chosen bot's checkout handoff. Use when the user names bot.store, chooses its marketplace or shares a bot.store URL.",
+  "mcpServers": {
+    "bot-store": {
+      "httpUrl": "https://bot.store/mcp",
+      "description": "Find and open Grok Bot templates from bot.store, compare actual marketplace listings and prepare a user-chosen bot's checkout handoff. Use when the user names bot.store, chooses its marketplace or shares a bot.store URL."
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bot-store": {
+      "type": "http",
+      "url": "https://bot.store/mcp"
+    }
+  }
+}
